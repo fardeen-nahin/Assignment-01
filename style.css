@@ -1,0 +1,139 @@
+body {
+  font-family: poppins;
+  margin: 0%;
+}
+section {
+  padding-bottom: 150px;
+  height: 440px;
+  width: 1180px;
+  margin: 0 auto;
+}
+.half-width {
+  width: 40%;
+  margin-left: 5%;
+  padding-left: 1%;
+  float: left;
+}
+.half-width h1 {
+  font-size: 40px;
+}
+.half-width img {
+  width: 100%;
+}
+.links {
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+  padding: 10px 30px 10px 30px;
+  background-image: linear-gradient(360deg, lightSalmon, tomato);
+  border-radius: 5px;
+}
+.menu-bar {
+  text-align: right;
+}
+.menu-bar a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  padding-right: 4%;
+}
+.projects {
+  background-color: rgba(128, 128, 128, 0.404);
+}
+
+#work-sec {
+  background-color: #f1f1f3dc;
+  width: 100%;
+  height: 500px;
+}
+
+#work-sec h1 {
+  padding: 4%;
+  text-align: center;
+}
+.works {
+  width: 25%;
+  float: left;
+  margin-left: 5%;
+  box-shadow: 10px 10px 180px rgb(214, 214, 214);
+  border-radius: 10px;
+  padding: 1%;
+}
+.works img {
+  width: 100%;
+}
+
+.top-left a{
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+  padding: 10px 30px 10px 30px;
+  background-image: linear-gradient(360deg, lightSalmon, tomato);
+  border-radius: 5px;
+}
+.rd-sec-img{
+  width: 70%;
+  margin-top: 170px;
+  margin-left: 105px;
+
+}
+.inq{
+  width: 30%;
+  float: left;
+}
+.chat{
+  height: 100px;
+}
+
+.container {
+  margin-left: 25%;
+  width: 50%;
+  position: relative;
+  text-align: center;
+  color: white;
+  border: 2px solid;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 30px;
+  margin-bottom: 40px;
+  font-size: 30px;
+  font-weight: 800;
+}
+.top-left {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  margin-bottom: 50px;
+}
+
+footer{
+  text-align: center;
+}
+.align{
+  text-align: center;
+}
+footer .icon{
+  display: inline-block;
+}
+
+#exp-sec h1 {
+  padding: 4%;
+  text-align: center;
+  height: 100px;
+}
+.exp {
+  width: 25%;
+  float: left;
+  margin-left: 5%;
+  box-shadow: 10px 10px 80px rgb(100, 100, 100);
+  border-radius: 10px;
+  padding: 1%;
+  border-left: 7px solid;
+  border-image: linear-gradient(360deg, lightSalmon, tomato);
+  border-image-slice: 1;
+}
+.exp h2{
+  text-align: center;
+}
